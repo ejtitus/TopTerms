@@ -1,4 +1,4 @@
-TopTermsInLabledData README, Eric Titus, October 2, 2015
+TopTermsInLabeledData README, Eric Titus, October 2, 2015
 
 This code works on the brand labled datasets to extract terms of importance to each brand using a TFIDF weighting scheme.
 The top terms are saved to an external text file, and wordcloud plots are generated for each brand.
